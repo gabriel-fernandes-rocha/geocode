@@ -1,0 +1,302 @@
+id;cod_municipio;endereco;numero;complemento;bairro;cep
+1;2800308;Rua Beira Rio;;;Bugio;49090-010
+2;2800308;Ru Mato Grosso;1750;;Jose Conrado De Araujo;49085-220
+3;280030;Rua Lucio Mota;55;;Grageru;49027-180
+4;2800308;Rua 3;;;Sao Jose Dos Naufragos;49039060
+5;2800308;Rua Edson Santos;184;;Industrial;49000-000
+6;2800308;Rua Muribeca;180;;Santo Antonio;49060470
+7;2800308;Rua Jansen Melo;33;;Dezoito Do Forte;49072350
+8;2800308;Rua Onze;17;;Olaria;49092-576
+9;2800308;Rua Maria Rezende Machado;840;;Zona De Expansao;
+10;2800308;Avenida Joao Jose De Santana;746;;Sao Jose Dos Naufragos;49039-190
+11;2800308;Rua N;45;;Bairro Sao Conrado;49042230
+12;2800308;Avenida Augusto Franco;1082;;Siqueira Campos;49075-100
+13;2800308;Travessa Dezesseis De Novembro;64;;Santos Dumont;49087230
+14;2800308;R. J;74;;Soledade;49089297
+15;280030;Rua C3;205;;Bugio;
+16;2800308;R. M2;129;;Farolandia;49030000
+17;280030;Rua Bahia;1442;;Siqueira Campos;49075100
+18;2800308;Rua Antonio Ramos Mendonca;80;;Farolandia;
+19;2800308;Rua Sao Francisco De Assis;550;;Santos Dumont;49087000
+20;2800308;Rua J4;449;;Farolandia;49030-000
+21;2800308;Rua Leopoldo Mesqita;404;;Grageru;49025330
+22;280030;Travessa Da Independencia;52;;Sao Conrado;49042426
+23;2800308;Rua M;36;;Soledade;49089-000
+24;2800308;Rua Jehovah Ribeiro outo;581;;Jardim Centenario;49090-750
+25;2800308;Rua F;61;;Bugio;49090223
+26;2800308;Rua PauloAfonso;279;;Farolandia;49032-140
+27;2800308;Travessa Nova Paraiba;72;;Siqueira Campos;49075515
+28;2800308;R. A;72;;Dom Luciano;49071323
+29;280030;R. B7;356;;Santa Maria;49000-100
+30;2800308;Rua Paraiba;1748;;America;49080-440
+31;2800308;Rua A;;;Cidade Nova;49070-000
+32;2800308;Travessa Santa Lucia;90;;Lamarao;49088-300
+33;280030;Rua Jarez De Oliveira Ribeiro;;;Farolandia;49031-220
+34;2800308;Rua Expedicionario Gilberto Cardoso Oliveira;14;;Orlando Dantas;49043-070
+35;2800308;Rua Senhor Do Bonfim;198;;Cidade Nova;49070430
+36;2800308;Avnida Auxiliar 1;242;;Santa Maria;49044-000
+37;280030;Rua Promotor Jose Luiz Melo;293;;Dezessete De Marco;49003-235
+38;280030;Rua U;350;;Aeroporto;49037-000
+39;2800308;Avenida Hermes Fontes;941;;Salgado Filho;49020-550
+40;280030;Rua A7;;;Santa Maria;49044-020
+41;2800308;Rua Tasso Sobral;203;;Grageru;49025690
+42;280030;Rua Matapoa;;;Mosqueiro;49000000
+43;2800308;Avenida Doutor Jose Calumby;474;;Suica;49050020
+44;2800308;Rua D;;;Soledade;49089249
+45;2800308;RuaUnilda Azevedo;96;;Santa Maria;49043565
+46;2800308;Avenida Chanceler Osvaldo Aranha;;;Olaria;49085-100
+47;280030;Travessa Apolinario;676;;Travessa Apolinario;
+48;2800308;Travessa Q2;97;;Sao Conrado;49042423
+49;2800308;Rua Capitao Jose Machado;2;;Ponto Novo;49097-090
+50;280030;Rua Jaime Paulo;370;;Santos Dumont;49087310
+51;280030;R. Melchisedeck Da Graca Fernandes;69;;Jabotiana;49095720
+52;280030;Rua Sao Joao;204;;Japaozinho;49070000
+53;2800308;Travessa Tuta;200;;Zona De Expansao;49039000
+54;280030;Rua EvangelinoDa Paixao;398;;Olaria;49092-510
+55;2800308;Rua Sao Cristovao Velha;892;;Centro;49000000
+56;2800308;R. Verde Prata;43;;Soledade;49088-273
+57;2800308;Rua General Joao Melo Rezende;5;;Sao Conrado;49042730
+58;2800308;Rua F;30;;Bugio;49090-223
+59;2800308;Rua Sargento Nezinho;59;;Dezoito Do Forte;49072-670
+60;2800308;Rua Vinte E Quatro;;;Santa Maria;49000-100
+61;2800308;Rua Maria Isabel Oliveira;39;;Santo Antonio;49060410
+62;280030;Rua Gumercindo Bessa;48;;Industrial;49065130
+63;2800308;Rua 44 Um;6;;Santa Maria;49000000
+64;2800308;Travessa Um;103;;Jardim Centenario;49090-293
+65;2800308;R. E1;65;;Bugio;49090650
+66;2800308;Avenida Santa Gleide;2231;;Olaria;49092125
+67;2800308;Avenida Desembargado Joao Bosco De Andrade Lima;;;Luzia;49037130
+68;2800308;R. 52;51;;Santa Maria;49044-000
+69;280030;Rua Jornalista Deolindo Nascimento;85;;Luzia;49045-360
+70;2800308;R. B;70;;Bairro Novo;49044000
+71;2800308;Rua C Anexo Iv Santa Lucia;97;;Jabotiana;49095-280
+72;2800308;Rua Promotor Pedro Rubens Dos Santos;42;;Dezessete De Marco;49003253
+73;2800308;Rua Gleide Fonseca De Almeida;62;;Santos Dumont;49087530
+74;280030;Rua Um;;;Aeroporto;49037393
+75;280030;Rua Onze;572;;Areia Branca;49050-020
+76;2800308;Travessa Manoel Sandes;;;Getulio Vargas;49055390
+77;2800308;Rua D;121;;Zona De Expansao;49039-000
+78;2800308;Rua G;58;;Aruana;49000-789
+79;2800308;Rua Jose De Oliveira Barros;13;;Aeroporto;
+80;280030;Travesa Clodomir Silva;;;Getulio Vargas;49055-160
+81;280030;Rua Euclides Gois;420;;Coroa Do Meio;49035310
+82;2800308;Rua Maria Dionete Santos De Souza;492;;Farolandia;49030-280
+83;2800308;Rua Doutor Manoel Candido ereira;20;;Luzia;49045710
+84;2800308;Rua Laranjeiras;1091;;Getulio Vargas;49055-380
+85;2800308;Rua Marilene De Oliveira Reis;88;;Aeroporto;49037-840
+86;2800308;Rua Florianopolis;453;;Novo Paraiso;49082190
+87;2800308;Rua Maria Vitoria Do Nascimento;155;;Conjunto Orlando Dantas;49042230
+88;2800308;Rua B8;223;;Santa Maria;49044283
+89;280030;Rua Dm Bosco;19;;Getulio Vargas;
+90;2800308;Rua Quinze;70;;Dezessete De Marco;49003-220
+91;2800308;Avenida Cecilia Meireles;;;Inacio Barbosa;49040110
+92;280030;Travessa Marcos Tourinho;94;;Bugio;49090-736
+93;2800308;Rua Cicero Soares Santos;;;Cidade Nova;49070-820
+94;2800308;Rua N;72;;Bairro Sao Conrado;49042230
+95;2800308;Rua Promotor Joaquim alenca;346;;Farolandia;
+96;2800308;Rua Roberto Morais;214;;Dezoito Do Forte;49072-620
+97;2800308;Rua Acre;54;;Dezoito Do Forte;49072010
+98;2800308;Rua Roza Feliciana Da Cruz;166;;Lamarao;49088-000
+99;2800308;Travessa Nossa Senhora Da Conceicao;26;;Japaozinho;49067-013
+100;2800308;Rua Dezessete;15;;Porto Dantas;49067-335
+101;280030;Rua Lidia Da Silva Oliveira;79;;Atalaia;49037-270
+102;2800308;Rua Maria Barros;118;;Farolandia;49030840
+103;2800308;Ru Marechal Deodoro;664;;Getulio Vargas;49055-400
+104;2800308;AvenidaSargento Joao Ribeiro;39;;Santo Antonio;49060620
+105;2800308;Rua Sao Cristovao;;;Centro;49010-380
+106;2800308;Rua Presidente Janio Quadros;525;;Olaria;49092-180
+107;2800308;R. B;28;;Soledade;49089173
+108;280030;Rua Padre Jose De Anchieta;31;;Inacio Barbosa;49000000
+109;2800308;Travessa C5;78;;Farolandia;49030-423
+110;2800308;Rua Maria De Amarante;40;;Farolandia;
+111;2800308;Rua Caela;;;Centro;
+112;2800308;Ru Colombia;21;;Santa Maria;49044000
+113;2800308;Rua 1 Vitoria Regia;37;;Santos Dumont;49000-000
+114;2800308;Avenida Hermes Fontes;200;;Suica;49052000
+115;2800308;Rua Joao Batista Machado;148;;Bairro Sao Conrado;49042230
+116;280030;Travessa Mangabinha 4;126;;Bairro Sao Conrado;49042689
+117;280030;Rua Paulina Do Coracao;35;;Aruana;49000-798
+118;280030;Rua Joao Carvalho De Aragao;810;;Atalaia;49037-620
+119;280030;Avenida Prefeito Heraclito Rollemberg;2971;;Aeroporto;49030640
+120;2800308;Rua Douor Benedito Guedes;379;;Coroa Do Meio;
+121;2800308;Rua Vinte E Quatro;105;;Santa Maria;
+122;2800308;Avenida Joao Vitor De Matos;134;;Farolandia;49032300
+123;2800308;Rua Francisco Gumercindo Bessa;0;;Grageru;49025-240
+124;2800308;Rua A;73;;Siqueira Campos;49075100
+125;280030;Avenida Brasl;581;;Novo Paraiso;49080215
+126;280030;Ru Coronel Jose Figueiredo De Albuquerque;;;Coroa Do Meio;49035-180
+127;280030;Rua General Joaquim Inacio;213;;Dezoito Do Forte;49072-290
+128;280030;Rua Tres;7;;Olaria;49090-000
+129;2800308;Rua Frei Paulo;561;;Suissa;49052270
+130;2800308;TravessaSao Pedro;44;;Getulio Vargas;49055650
+131;2800308;Rodovia Dos Naufragos;105;;Area De Expansao;49039000
+132;2800308;Avenida Doutor Jose Da Silva Ribeiro Filo;640;;America;49080-180
+133;280030;R. N;209;;Sao Conrado;49043-350
+134;2800308;Rua Nossa Senhora De Fatima;268;;Jose C De Araujo;49085260
+135;2800308;Rua Tenente Eduardo Dantas;19;;Luzia;49045-650
+136;2800308;Avenida Doutor Jose Josino De Almeida;1010;;Farolandia;49030250
+137;280030;R. Engenheiro Pirro;40;;Santo Antonio;49060-230
+138;2800308;Rua Sao Januario;46;;Japaozinho;49063094
+139;2800308;Rua Mario De Andrade;386;;Farolandia;49032310
+140;2800308;Rua Divina Pastora;;;Getulio Vargas;49055-220
+141;2800308;Rua M2;;;Farolandia;49030-000
+142;280030;Travessa Vitoria;;;Lamarao;49088-000
+143;2800308;Rua Christian Santana Correia onceicao;107;;Industrial;49065-370
+144;280030;Rua Jose De Melo;112;;Cidade Nova;49070230
+145;2800308;Rua Barra Dos Coqueiros;322;;Jose C De Araujo;49085-070
+146;2800308;Avenida Desembargador Jose Antonio De Andrade Goes;1337;;Coroa Do Meio;49035-265
+147;280030;Rua D1;85;;Santos Dumont;49087-469
+148;280030;Avenid Alan Kardec;204;;Cirurgia;49055-030
+149;2800308;Avenida Mario Jorge Meneze Vieira;442;;Coroa Do Meio;49035100
+150;280030;Avenida Tiradentes;10;;Marivan;49039-010
+151;2903201;Estrada D Prainha;101;;Rural;47800-000
+152;290320;Rua Sao Jorge;492;;Morada Da Lua;47800000
+153;2903201;Rua Prdente De Morais;362;;Santa Luzia;47800-000
+154;2903201;Quadra A16;8;;Barreiras;47800-000
+155;2903201;Rua Major Candido;31;;Sao Pedro;
+156;2903201;Rua E;22;;Presidente Medice;47800-000
+157;2903201;Rua Da Independencia;426;;Santa Luzia;47800-807
+158;2903201;Rua Custodia Rocha De Carvalho;0;;Primavera;47800187
+159;2903201;Ruela A;0;;Mucambo;47800000
+160;290320;Rua Padre Armindo;630;;Aratu;47806-131
+161;2903201;Rua Jose Bonifacio;0;;Parque Lacerda;47800-000
+162;2903201;Rua Da Felicidade;30;;Barreiras;47800-000
+163;2903201;Rua Floriano Peixoto;301;;Centro;47807010
+164;2903201;Comunidade Beira Rio;;;Comunidade Beira Rio;47819-899
+165;2903201;Avenida Lem;1184;;Barreiras;47800-000
+166;290320;Rua Jose Rocha;0;;Primavera;47803050
+167;2903201;Avenida Souza Moreira;56;;Santa Luzia;47800-873
+168;2903201;Rua Senhor Dos Aflitos;751;;Barreirinhas;47810683
+169;290320;Travessa Antonio Coite Filho;48;;Nova Vista;47800000
+170;2903201;Rua Aymore;725;;Renato Goncalves;47806096
+171;290320;Rua Roberto Marinho;59;;Loteamento Sao Paulo;47800-000
+172;2903201;Rua Custodia Rocha De Carvalho;170;;Primavera;47803-040
+173;2903201;Rua Almeida Prado;373;;Santa Luzia;47800762
+174;2903201;Rua Joaquim Neto;290;;Vila Brasil;47800-000
+175;2903201;Rua Paulinho Coite;86;;Sao Miguel;47800-408
+176;2903201;Rua Firmiano Luiz Ribeiro;;;Parque Lacerda;
+177;2903201;R. Raimundo Paz Dos Santos;;;Barreirinhas;47810746
+178;2903201;Rua Alemanha;13;;Loteamento Boa Sorte;47807177
+179;2903201;Rua Do Antigo Aeroporto;;;Sao Pedro;47810-894
+180;2903201;Avenida Cleriston Andrade;323;;Centro;47800193
+181;290320;R. B;;;Vila Amorim;47813-440
+182;2903201;ComunidadeVal Boa Esperanca;;;Vale Da Boa Esperanca;47819899
+183;290320;Avenida De Contorno A;0;;Buritis;47800000
+184;2903201;Rua Nucleo Bandeirante;;;Barreiras I;47813220
+185;2903201;Rua Tim Maia;38;;Loteamento Sao Paulo;47807081
+186;2903201;Fazenda Baixa Verde Ii;3;;Fazenda Baixa Verde Ii;04780-000
+187;2903201;Rua Marechal Rondon;187;;Sao Pedro;
+188;2903201;Rua Minas Gerais;554;;Vila Rica;47800000
+189;2903201;Rua Pindorama;645;;Santa Luzia;47800-798
+190;2903201;Rua Vital Brasil;0;;Bairro Santa Luzia;47800000
+191;2903201;Rua Sao Jorge;26;;Vila Brasil;47801180
+192;2903201;Rua Pedro Rego;217;;Folha Verde;47800000
+193;290320;Rua Jorge Amado;261;;Novo Horizonte;47802-374
+194;2903201;Rua Hraclito Savio Castro;25;;Parque Novo Horizonte;47800452
+195;2903201;R. Perola;94;;Parque Da Cidade;
+196;2903201;Rua Serra Negra;395;;Vila Rica;47813-114
+197;2903201;Rua B;60;;Loteamento Boa Sorte;47800-000
+198;2903201;Rua Dom Pedro I;;;Sandra Regina;47802-012
+199;2903201;R. Beija Flor;555;;Barreirinhas;47809999
+200;2903201;Fazenda Tabua Da Agua Vermlha;5;;Tabua Da Agua Vermelha;04780-000
+201;2903201;Travessa Doutor Roberto Prata;16;;Sao Pedro;
+202;2903201;Rua Alvorada;;;Morada Da Lua;47800000
+203;2903201;Rua Q;220;;Vila Nova;47800-662
+204;290320;Rodovia Ba 135 Km 16;15;;Riacho De Areia;47819-899
+205;2903201;Rua Joa Silva;;;Barreiras;47800000
+206;2903201;Rua Gercino Francisco;277;;Serra Do Mimo;47802-544
+207;290320;Rua M;13;;Vila Nova;
+208;2903201;Rua Marcos Freire;617;;Vila Regina;47806124
+209;2903201;Rua Dezenove De Maio;169;;Centro;47800-000
+210;2903201;Rua Da Boa Fe;42;;Barreirinhas;47800-000
+211;2903201;R. Maraba;251;;Barreirinhas;47806-320
+212;2903201;Rua Do Cerrado;110;;Morada Da Lua;47806-233
+213;2903201;Rua Presidente osta E Silva;496;;Barreiras;47806510
+214;2903201;Rua Aquiles;34;;Presidente Medice;47813-422
+215;2903201;Rua Sant Helena;6;;Cascalheira;47800-000
+216;290320;R. Edithe Rodrigues De Souza;81;;Vila Rica;47813-174
+217;2903201;Rua Alvorada;297;;Santa Luzia;47800000
+218;290320;Rua Piracicaba;27;;Barreiras;47800-000
+219;290320;Avenida Transversal B;283;;Parque Da Cidade;47811-090
+220;2903201;Rua Joaquim Neto;1494;;Sao Miguel;47800420
+221;2903201;Rua Nucleo Bandeirante;161;;Barreiras I;47813-220
+222;2903201;Rua Ciro Pedrosa;1432;;Morada Da Lua;47806272
+223;2903201;Rua Marechal Hermes;264;;Primavera;47803080
+224;2903201;Rua Santo Antonio;;;Bairro Sao Pedro;47800000
+225;290320;Rua Sao Miguel 2;501;;Loteamento Sao Paulo;47800000
+226;290320;Rua Das Turbinas;;;Barreirinhas;47811003
+227;2903201;Av. Maia;184;;Bairro Sao Pedro;47800000
+228;2903201;Rua Edson Alves Pinheiro;;;Bela Vista;47811018
+229;2903201;Rua anta Custodia;;;Boa Vista;
+230;2903201;Rua Sao Gabril;;;Vila Rica;47813-024
+231;2903201;Rua R;16;;Vila Nova;47800000
+232;2903201;R. 6;120;;Serra Do Mimo;47800-000
+233;2903201;Rua Oito De Maio;334;;Centro;47800000
+234;2903201;Rua Adelson Carvalho;174;;Parque Verde;47806-377
+235;2903201;Rua Do Antigo Aeroporto;18;;Bela Vista;47810-894
+236;2903201;Rua DasEstrelas;80;;Sombra Da Tarde;47803644
+237;2903201;Rodovia a 825;;;Auto Posto Girasol;47819-899
+238;290320;R. L;15;;Baraunas;47800652
+239;290320;Rua Vitoria;7;;Loteamento Firenze;47800-646
+240;2903201;Mata Do Puba;;;Mata Do Puba;4780000
+241;2903201;Rua Heraclito Savio Castro;;;Parque Novo Horizonte;47800-452
+242;2903201;Avenida Rio Grande;;;Antonio Geraldo;47808-122
+243;2903201;Rua Pedro Miguel;28;;Barreirinhas;
+244;2903201;R. O;24;;Vila Nova;47800000
+245;2903201;Rua Tiradentes;1165;;Barreiras;47800-000
+246;2903201;Rua achado De Assis;775;;Santa Luiza;47800-720
+247;290320;R. Brilho Do Sol;297;;Morada Da Lua;47806291
+248;290320;R. E;188;;Vila Nova;47800-640
+249;2903201;Rua Francisco Mariano Da Silva;71;;Sao Pedro;47810-880
+250;2903201;Rua Bartolomeu Bueno;840;;Sao Miguel;47800-432
+251;290320;Rua Valverde;9;;Jardins;47803044
+252;2903201;Rua Ipiranga;135;;Loteanento Sao Paulo;
+253;2903201;Rua Jacobina;97;;Novo Horizonte;47802388
+254;2903201;Rua Edson Alves Pinheiro;239;;Bela Vista;
+255;2903201;Estrada Br 242;10;;Br 242;47800000
+256;290320;Rua Das Orquidias;88;;Vila Brasil;47800-000
+257;2903201;Rua Capitao Manoel Miranda;114;;Centro;47807000
+258;2903201;Avenida Venturosa De Brito;;;Flamengo;47800000
+259;2903201;Rua Eduardo Medrado;19;;Vila Amorim;47813-490
+260;2903201;Rua Eduardo Medrado;359;;Vila Amorim;47800-000
+261;2903201;Rua Sao Mateus;251;;Santa Luzia;
+262;290320;Rua Itapetinga;184;;Santo Antonio;
+263;2903201;Rua Rapouso Tavares;0;;Santa Luzia;47800-708
+264;290320;Rua Do Campo;12;;Cascalheira;47800-000
+265;2903201;Avenida Ruy Barosa;886;;Vila Regina;47806136
+266;2903201;Rua Airton Senna;88;;Santa Luzia;47800000
+267;2903201;Rua JoseAntonio Do Carmo;;;Morada Da Lua;47806-266
+268;2903201;Rua D;25;;Vila Nova;47800-638
+269;2903201;R. Jonas Carvalho Amorim Brandao;100;;Serra Do Mimo;47802-504
+270;290320;Povoado Conquista;311;;Povoado Conquista;47800000
+271;290320;R. P;59;;Vila Nova;47800-000
+272;2903201;Rua Cicera Lucia Miranda Da Silva;100;;Vila Rica;47813-172
+273;290320;R. C;148;;Vila Dos Funcionarios;47813-442
+274;2903201;Povoado Conquista;55;;Povoado Conquista;47800000
+275;2903201;Travessa Quinta;561;;Loteamento Bandeirantes;47800000
+276;290320;R. Porto Alegre;;;Boa Vista;47800-000
+277;2903201;Rua 4;48;;Arboreto;47811-609
+278;2903201;Rua Serra Negra;443;;Vila Rica;47800-000
+279;2903201;Rua Abilio Farias;410;;Centro;47800-000
+280;2903201;Rua SerraNegra;197;;Vila Rica;47800-000
+281;2903201;Avenida Antonio Carlos Magalhaes;1362;;Jardim Ouro Branco;47802147
+282;2903201;Rua Do Campo;32;;Barrocao De Cima;
+283;2903201;Travessa Marechal Deodoro;115;;Centro;47800200
+284;2903201;Fazenda Picos;1;;Fazenda Picos;47819-899
+285;2903201;R. Julio Cesar;63;;Santa Luzia;
+286;2903201;Rua Das Estrelas;6;;Sombra Da Tarde;47803644
+287;2903201;Rua Nova Brasilia;;;Vila Brasil;47801-170
+288;2903201;Rua Maria Do Socorro Moura Chagas;;;Morada Da Lua;47806302
+289;2903201;RuaDas Flores;2227;;Morada Nobre;
+290;2903201;Rua Do Tamarindo;;;Serra Do Mimo;47802546
+291;2903201;Rua Prudente De Morais;392;;Santa Luzia;47800765
+292;290320;Rua Reinldo Pimentel;503;;Morada Da Lua;47806-284
+293;2903201;Condominio Village Santa Maria;68;;Morada Nobre;47800000
+294;2903201;Rua Barao De Cotegipe;1220;;Loteamento Sao Paulo;47800-000
+295;2903201;Rua olombia;0;;Barreiras I;47813234
+296;290320;Rua Nunes;142;;Bairro Sao Pedro;47800-000
+297;2903201;R. B;216;;Vila Dos Funcionarios;47800-000
+298;290320;Rua Anapolina;336;;Barreiras;47800000
+299;2903201;Rua Antonio Coite Filho;;;Jardim Ouro Branco;47802-273
+300;290320;Travessa Sra Aparecida;0;;Entrada Da Cotia;47800-970
+301;;Rua Sem Municipio;1;;;
